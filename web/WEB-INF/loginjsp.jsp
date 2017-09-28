@@ -22,7 +22,6 @@
         </form>
         ${validateMessage}
         <br>
-        ${logout}
-        
+        ${logout}     
     </body>
 </html>
